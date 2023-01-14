@@ -9,7 +9,7 @@ const colors = {
     700: '#2a69ac',
   },
   blackAlpha: {
-    100: '#e9ebed',
+    100: '#027af2',
     200: '#00000f'
   },
 }

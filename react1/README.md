@@ -8,6 +8,7 @@
 # pnpmがマシン未インストールの場合
 npm install -g pnpm
 
+cd react1
 pnpm install
 pnpm dev
 ```

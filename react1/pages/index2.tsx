@@ -7,13 +7,14 @@ import styles from "../styles/Home.module.css";
 import { Content } from "../components/content/content";
 import { Checkbox, CheckboxGroup } from "@chakra-ui/react";
 
-const Home: NextPage = () => {
+const Index2: NextPage = () => {
   return (
     <Layout>
       <Content />
+      index2222
       <Checkbox defaultChecked>Checkbox</Checkbox>
     </Layout>
   );
 };
 
-export default Home;
+export default Index2;
